@@ -11,7 +11,7 @@ const loadPost = () => {
 
 const displayPost = (posts) => {
     // console.log(posts);
-    posts.forEach((posts) => {
-        console.log(posts);
+    posts.forEach((post) => {
+        console.log(post);
     })
 }
